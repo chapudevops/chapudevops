@@ -1,7 +1,7 @@
+<p align="left"></p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=00FF00&width=600&lines=🤖+CHAPUBOT+ONLINE+🤖;Hola%2C+soy+Darlin+Josue;Bienvenido+a+mi+GitHub!)](https://github.com/chapudevops)
+
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chapudevops&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00)
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chapudevops&theme=radical&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00)
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=500&color=00FF00&center=true&vCenter=true&width=435&lines=🐍+Python+Developer+%7C+Laravel+%7C+DevOps;⚡+Siempre+aprendiendo+nuevas+tecnologías;🎯+Proyectos+que+cambian+el+mundo;🤖+CHAPUBOT+MODE+ACTIVADO" alt="Typing SVG" />
